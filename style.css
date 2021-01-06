@@ -79,7 +79,10 @@ button{
     
 }
 .about-margin-top{
-    color:darkorange
+    color:darkorange;
+}
+.special-color{
+    color:rgb(67, 150, 34);
 }
 .one-third-width{
     width:30%;
